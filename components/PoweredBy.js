@@ -5,5 +5,5 @@ import { siteConfig } from '@/lib/config'
  * @returns
  */
 export default function PoweredBy(props) {
-  return ()
+    return () => null;
 }
